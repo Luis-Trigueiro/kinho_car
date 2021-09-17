@@ -1,0 +1,27 @@
+.carrosel {
+  padding: 0;
+}
+
+.imgLogo img {
+  max-width: 200px;
+}
+
+.container-fluid {
+  background: azure;
+}
+
+.footer {
+  background-color: black;
+  color: white !important;
+}
+
+.footer a {
+  color: white !important;
+}
+
+@media (min-width: 1200px) {
+  .h2,
+  h2 {
+    font-size: 3rem;
+  }
+}
